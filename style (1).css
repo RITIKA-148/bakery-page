@@ -1,0 +1,296 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+
+
+.page-preview-header {
+    background: #f2f2f2;
+    border: none;
+    height: 70px;
+    position: relative;
+    text-align: center;
+}
+
+.page-preview-header  .close {
+    float: right;
+    margin-right: 10px;
+}
+
+.page-preview-header  a {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 4px;
+}
+
+
+/* */
+
+.links{
+  PADDING-LEFT: 65PX;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.u-layout-row {
+  flex-direction: row;
+  flex-wrap: wrap;
+  min-height: -webkit-fit-content;
+  min-height: fit-content;
+  max-width: 100%;
+}
+.van{
+  font-size: 26px;
+  color:#111111;
+  margin-left: 29px;
+  letter-spacing: 3px;
+  font-family: 'Raleway', sans-serif;
+}
+.baked{
+  font-size: 45px;
+  margin:21px 28px 0px;
+  
+  font-family: 'Montserrat', sans-serif;
+  width: 73%;
+  text-transform:capitalize;
+}
+.head2{
+  margin-top: 23px;
+  margin-left: 28px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 18PX;
+ 
+  width: 61%;
+  
+  letter-spacing: 3px;
+}
+.write{
+  margin: 35px
+}
+
+.btn{
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 0.875rem;
+ 
+  text-align: center;
+  font-weight: 700;
+  border-style: solid;
+
+  border-width: 2px;
+  border-color: #404040;
+    color: #404040;
+    padding: 23px 47px;
+    margin-left: 33px;
+    border-radius: 15px;
+
+}
+.next-line{
+  width:100%;
+  margin-top: 61px;
+
+
+}
+.zozo{
+  background-color: #A89F95;
+height:1215px;
+  
+}
+.bread{
+  width: 16%;
+}
+.card-title{
+  color:#7f493e;
+  font-size: 48px;
+  font-family: 'Oswald', sans-serif;
+}
+.card-subtitle{
+
+}
+.text-muted {
+  color:#111111;
+}
+.card-text{
+  font-style: italic;
+  margin-top: 25px;
+
+}
+.card-body{
+  padding: 37px;
+}
+.card-subtitle{
+  padding-top: 14px;
+}
+.card{
+
+  border-radius: 20px;
+  width:17.5%;
+}
+.Our-tradition{
+
+}
+
+.our{
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 45px;
+
+  margin-top: 22vh;
+  font-family: 'Montserrat', sans-serif;
+}
+.our2{
+  color: #FFFFFF;
+  text-align: center;
+  padding: 40px 10px;
+  font-size: 24px;
+  font-family: 'Raleway', sans-serif;
+  font-weight: bolder;
+}
+.our3{
+  color: #FFFFFF;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  width: 46%;
+  margin-top: -28px;
+  font-style: italic;
+  margin-left: 30%;
+}
+.line7{
+  color:#FFFFFF;
+  width: 20px;
+}
+.skky{
+  height: 17px;
+  margin-left: 201px;
+  margin-right: 217px;
+ 
+  color:#FFFFFF;
+}
+.btn1{
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 0.875rem;
+ 
+  text-align: center;
+  font-weight: 700;
+  border-style: solid;
+
+  border-width: 2px;
+  border-color: #FFFFFF;
+    color:#FFFFFF;
+    padding: 23px 47px;
+    text-decoration: none;
+   
+    border-radius: 15px;
+}
+/* .sidebar-toggle:hover {
+  color: var(--clr-primary-7);
+}
+
+
+/*  */
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+#main {
+  transition: margin-left .5s;
+  padding: 16px;
+  float: right;
+}
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+.navbar-brand{
+  font-family: 'Lobster', cursive;
+  font-size: 25px;
+  font-weight: bolder;
+  text-transform: uppercase;
+  color: #111;
+  
+}
+.navbar{
+  background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+  padding: 8px 16px!important;
+  box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+}
+.food{
+  /* padding-top: 64px!important;
+  padding-bottom: 70px!important; */
+
+  max-width: 100%;
+  height: auto;  
+    opacity: 0.75
+
+
+
+}
+.foodnew{
+  padding-top: 64px!important;
+  padding-bottom: 70px!important;
+}
+.large{
+  letter-spacing: 2px;
+  padding-top: 27px;
+  font-family: 'Satisfy', cursive;
+  font-size: 18px;
+}
+h1{
+  text-align: center;
+  font-family: 'Lobster', cursive;
+}
+.next-large{
+  letter-spacing: 2px;
+  color: #757575!important;
+  font-family: 'Satisfy', cursive;
+font-size: 24px;
+
+}
+.menu{
+  color: #404040;
+  font-family: 'Satisfy', cursive;
+
+}
+
+.section{
+  margin-top: 4%;    
+  padding-bottom: 60px;
+  background-color: #f7f7f7;
+
+}
+.footers{
+  padding-top: 5%;
+
+text-align: center;
+color: brown;
+text-transform: uppercase;
+letter-spacing: 5px;
+}
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
